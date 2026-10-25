@@ -1,0 +1,18 @@
+body {
+   background-color: rgb(30, 192, 192);
+   color:rgb(0, 0, 0);
+}
+#siraysir {
+    border: 5px solid #666;
+}
+#linkinho {
+    font-size: 20px;
+}
+#hakkimdadiv {
+    
+    background-color: brown;
+    border-radius: 10px;
+    width: 600px;
+	color:#FFF;
+    }
+
